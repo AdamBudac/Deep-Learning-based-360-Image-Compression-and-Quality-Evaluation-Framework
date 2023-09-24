@@ -66,5 +66,5 @@ Compressed and decompressed images in PNG format, metric results and generated .
 ## References
 1. [Diploma thesis](https://www.vut.cz/studenti/zav-prace/detail/151744)
 2. [Quality comparison of 360° 8K images compressed by conventional and deep learning algorithms](https://ieeexplore.ieee.org/document/10109066)
-3. [Comparison of compression and decompression speeds for 360° images with resolutions up to 8K using conventional and deep learning algorithms]() - link to be added soon
+3. [Comparison of compression and decompression speeds for 360° images with resolutions up to 8K using conventional and deep learning algorithms](https://www.eeict.cz/eeict_download/archiv/sborniky/EEICT_2023_sbornik_1.pdf)
 4. [360° photo](https://www.kandaovr.com/gallery/)
